@@ -209,9 +209,7 @@ footer{
 /* Mobile Device */
 
 @media only screen and (max-width:688px) {
-    /* .container{
-        width: 100%;
-    } */
+
     header,.container{
         width: 100%;
     }
@@ -229,9 +227,6 @@ footer{
         height: 300px;
     }
   
-    .container{
-        width: 100%;
-    }
     .top-players{
         width: 100%;
         display: flex;
