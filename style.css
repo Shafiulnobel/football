@@ -101,6 +101,7 @@ header:hover .button a{
 }
 .player .player-info p{
     width: 80%;
+    color: var(--para-color);
    
 }
 
